@@ -19,8 +19,7 @@ end
 def take_a_number(katz_deli, name)
    if katz_deli = (name)
       puts "Welcome, #{name}. You are number 1 in line."
-     else  katz_deli = (name)
-       puts katz_deli =["Ada"]
+   else new_array =[]
       # else new_array =[name]
         # katz_deli = (name)
       end
